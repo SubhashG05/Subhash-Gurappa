@@ -1,6 +1,6 @@
 👋 **Hey, I'm Subhash!**
 
-## 🔍 About Me 
+## 🔍 Who Am I ? 
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
@@ -95,7 +95,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 
 ---
 
-### 📬 Let’s Connect 
+### Let’s Connect 
 <a href="https://www.linkedin.com/in/g-subhash/" target="_blank">
   <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
