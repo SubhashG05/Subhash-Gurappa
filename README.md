@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Sunil!
+## 👋 Hey, I'm Subhash!
 
 🚀 Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast  
 🏛️ Graduate Research Assistant @ Florida International University  
