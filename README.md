@@ -8,7 +8,7 @@ With industry experience in **Artificial Intelligence**, **Machine Learning**, a
 
 - 🔍 AI-driven automation & predictive analytics  
 - 📈 Business intelligence & decision systems  
-- 🤖 Deep Learning | NLP | Computer Vision | Time-Series Modeling  
+- 🤖 LLMs | RAG | AI Agents | Deep Learning | NLP | Time-Series Modeling  
 
 I'm passionate about building ethical, scalable, and impactful AI solutions—particularly in healthcare and high-impact data environments.
 
