@@ -4,7 +4,7 @@
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
-With 5+ years of industry experience in **Artificial Intelligence**, **Machine Learning**, and **Data Science**, I specialize in:
+With industry experience in **Artificial Intelligence**, **Machine Learning**, and **Data Science**, I specialize in:
 
 - 🔍 AI-driven automation & predictive analytics  
 - 📈 Business intelligence & decision systems  
