@@ -1,6 +1,6 @@
 👋 **Hey, I'm Subhash!**
 
-## 🔍 Who Am I ? 
+## 🔍 About Me 
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
