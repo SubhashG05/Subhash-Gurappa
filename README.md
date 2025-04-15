@@ -1,9 +1,5 @@
 ## 👋 Hey, I'm Subhash!
 
-🚀 Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast  
-🏛️ Graduate Research Assistant @ Florida International University  
-🧠 Ex-Capgemini | Ex-Hitachi | Passionate about Generative AI, NLP, and AI in Healthcare
-
 <a href="https://www.linkedin.com/in/g-subhash/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,13 +13,7 @@
 
 ---
 
-### 🔍 About Me
-🌱 Currently exploring advanced ML architectures, GenAI, and explainable AI in healthcare and environmental domains  
-🧪 Research on anomaly detection in ERT data, synthetic data generation using VAEs, and image super-resolution  
-📊 Designed ML pipelines and dashboards using Python, Power BI, and MySQL for real-time anomaly tracking  
-📚 Published in IEEE FMLDS 2024 (image super-resolution research)
-
-## 👨‍🔬 About Me
+## 🔍 About Me
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
