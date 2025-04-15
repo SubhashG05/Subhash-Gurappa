@@ -112,7 +112,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 
 ---
 
-📬 **Let’s Connect**  
+### 📬 Let’s Connect 
 💼 Open to collaboration in healthcare AI, generative modeling, and research projects  
 📧 Email: subhashg5397@gmail.com  
 🌐 Portfolio/Website: *coming soon*
