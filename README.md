@@ -1,27 +1,16 @@
 ## 👋 Hey, I'm Subhash!
 
-<a href="https://www.linkedin.com/in/g-subhash/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" style="vertical-align:middle;" />
+## 🔍 About Me 
+<a href="https://www.linkedin.com/in/g-subhash/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<span style="margin-left: 8px; vertical-align:middle;">LinkedIn</span>
-
-&nbsp;&nbsp;
-
 <a href="mailto:subhashg5397@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" style="vertical-align:middle;" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<span style="margin-left: 8px; vertical-align:middle;">Gmail</span>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SubhashG05" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="22px" style="vertical-align:middle;" />
+<a href="https://github.com/SubhashG05">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<span style="margin-left: 8px; vertical-align:middle;">GitHub</span>
-
-
-
-## 🔍 About Me
+<br/><br/>
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
