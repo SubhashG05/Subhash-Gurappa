@@ -23,6 +23,20 @@
 📊 Designed ML pipelines and dashboards using Python, Power BI, and MySQL for real-time anomaly tracking  
 📚 Published in IEEE FMLDS 2024 (image super-resolution research)
 
+## 👨‍🔬 About Me
+
+🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
+
+With 5+ years of industry experience in **Artificial Intelligence**, **Machine Learning**, and **Data Science**, I specialize in:
+
+- 🔍 AI-driven automation & predictive analytics  
+- 📈 Business intelligence & decision systems  
+- 🤖 Deep Learning | NLP | Computer Vision | Time-Series Modeling  
+
+I'm passionate about building ethical, scalable, and impactful AI solutions—particularly in healthcare and high-impact data environments.
+
+Always eager to collaborate on projects at the intersection of **AI, research, and real-world problem solving**!
+
 ---
 
 ## 💻 Tech Stack
