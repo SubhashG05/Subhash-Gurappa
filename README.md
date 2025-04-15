@@ -1,16 +1,6 @@
-## 👋 Hey, I'm Subhash!
+👋 **Hey, I'm Subhash!**
 
 ## 🔍 About Me 
-<a href="https://www.linkedin.com/in/g-subhash/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:subhashg5397@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://github.com/SubhashG05">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/><br/>
 
 🚀 **Data Scientist | AI/ML Researcher | Healthcare AI Enthusiast**
 
@@ -106,6 +96,20 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 ---
 
 ### 📬 Let’s Connect 
+<a href="https://www.linkedin.com/in/g-subhash/" target="_blank">
+  <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="mailto:subhashg5397@gmail.com" target="_blank">
+  <img align="left" alt="Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
+
+<a href="https://github.com/SubhashG05" target="_blank">
+  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+
+<br/><br/>
+
 💼 Open to collaboration in healthcare AI, generative modeling, and research projects  
 📧 Email: subhashg5397@gmail.com  
 🌐 Portfolio/Website: *coming soon*
