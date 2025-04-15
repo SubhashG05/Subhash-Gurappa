@@ -25,13 +25,6 @@
 
 ---
 
-### 💻 Tech Stack
-**Languages**: Python, R, SQL, Java, SAS  
-**Libraries/Frameworks**: PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers, OpenCV, NLTK, SpaCy, Keras  
-**Data & Viz**: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-**Platforms**: Azure, AWS, GCP, MySQL, Streamlit, Flask  
-**Specializations**: AI/ML, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG, Healthcare AI  
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -103,9 +96,9 @@
 ---
 
 ### 🧪 Research & Projects
+- **Image Super-Resolution** – CNNs, Transformers, GANs across domains
+- **Patient Risk Stratification** – EHRs + XGBoost + SHAP 
 - **Anomaly Detection in ERT Data** – DOE Project | LSTM & Autoencoders  
-- **Image Super-Resolution** – CNNs, Transformers, GANs across domains  
-- **Patient Risk Stratification** – EHRs + XGBoost + SHAP  
 - **AI Chatbot for Healthcare** – IBM Watson, Dialogflow, Amazon Lex  
 - **A2B Code Translator** – GPT-3 for Python ↔ R/SAS/Java conversions
 
