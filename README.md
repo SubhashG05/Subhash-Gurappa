@@ -57,13 +57,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhashG05&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashG05&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhashG05&theme=dark)
-
----
-
 📬 **Let’s Connect**  
 💼 Open to collaboration in healthcare AI, generative modeling, and research projects  
 📧 Email: subhashg5397@gmail.com  
