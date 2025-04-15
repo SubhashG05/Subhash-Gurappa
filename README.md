@@ -2,16 +2,20 @@
 
 <a href="https://www.linkedin.com/in/g-subhash/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <span style="margin-left:8px;">LinkedIn</span>
 </a>
+
 <a href="mailto:subhashg5397@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <span style="margin-left:8px;">Gmail</span>
 </a>
+
 <a href="https://github.com/SubhashG05">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <span style="margin-left:8px;">GitHub</span>
 </a>
 <br/><br/>
 
----
 
 ## 🔍 About Me
 
