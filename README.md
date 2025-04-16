@@ -25,7 +25,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1B4FA1?style=for-the-badge&logo=sas&logoColor=white)
 
----
+
 
 ### 🧠 Libraries & Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -38,7 +38,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 ![SpaCy](https://img.shields.io/badge/SpaCy-0085CA?style=for-the-badge&logo=spacy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+
 
 ### 📊 Data & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -47,7 +47,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+
 
 ### ☁️ Platforms & Tools
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -57,7 +57,7 @@ Always eager to collaborate on projects at the intersection of **AI, research, a
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+
 
 ### 🧪 Specializations
 ![AI/ML](https://img.shields.io/badge/AI/ML-1F8AC0?style=for-the-badge&logo=python&logoColor=white)
